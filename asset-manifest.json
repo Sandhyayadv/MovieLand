@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/MovieLand/static/css/main.233f9886.css",
-    "main.js": "/MovieLand/static/js/main.29bf6e59.js",
-    "index.html": "/MovieLand/index.html",
-    "main.233f9886.css.map": "/MovieLand/static/css/main.233f9886.css.map",
-    "main.29bf6e59.js.map": "/MovieLand/static/js/main.29bf6e59.js.map"
+    "main.css": "/Apple-Website-Clone/static/css/main.b440a379.css",
+    "main.js": "/Apple-Website-Clone/static/js/main.63a4d6d5.js",
+    "static/media/Image3.jpg": "/Apple-Website-Clone/static/media/Image3.a1a1402e85b6b121503f.jpg",
+    "static/media/Watch.jpg": "/Apple-Website-Clone/static/media/Watch.54f60257b586541b0365.jpg",
+    "static/media/Image6.jpg": "/Apple-Website-Clone/static/media/Image6.4d7648e5eed43a768025.jpg",
+    "static/media/Image1.jpg": "/Apple-Website-Clone/static/media/Image1.0771eb68a08c01e7efc0.jpg",
+    "static/media/IPad.jpg": "/Apple-Website-Clone/static/media/IPad.dfa8031ebf5029a5c518.jpg",
+    "static/media/IPhone14.jpg": "/Apple-Website-Clone/static/media/IPhone14.a2c265c833b30b4514f2.jpg",
+    "static/media/Image4.webp": "/Apple-Website-Clone/static/media/Image4.35be0365cc408340cb0d.webp",
+    "static/media/IMage.webp": "/Apple-Website-Clone/static/media/IMage.68c5f50aa0932111b0ca.webp",
+    "static/media/Image5.jpg": "/Apple-Website-Clone/static/media/Image5.bdb7f7120a75e16029c2.jpg",
+    "static/media/m2.png": "/Apple-Website-Clone/static/media/m2.11fa63c6c5223c5d1311.png",
+    "index.html": "/Apple-Website-Clone/index.html",
+    "main.b440a379.css.map": "/Apple-Website-Clone/static/css/main.b440a379.css.map",
+    "main.63a4d6d5.js.map": "/Apple-Website-Clone/static/js/main.63a4d6d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.233f9886.css",
-    "static/js/main.29bf6e59.js"
+    "static/css/main.b440a379.css",
+    "static/js/main.63a4d6d5.js"
   ]
 }
